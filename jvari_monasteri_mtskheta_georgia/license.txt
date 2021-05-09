@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jvari Monasteri, Mtskheta, Georgia
+* source:	https://sketchfab.com/3d-models/jvari-monasteri-mtskheta-georgia-605744f827e145e5a31309c5553301b5
+* author:	bumbeishvili (https://sketchfab.com/bumbeishvili)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jvari Monasteri, Mtskheta, Georgia" (https://sketchfab.com/3d-models/jvari-monasteri-mtskheta-georgia-605744f827e145e5a31309c5553301b5) by bumbeishvili (https://sketchfab.com/bumbeishvili) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
